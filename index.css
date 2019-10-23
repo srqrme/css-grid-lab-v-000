@@ -10,7 +10,6 @@ body {
   /* your properties here */
   display: grid;
   grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;
-  grid-gap: 5px;
 }
 
 .grid-item {
